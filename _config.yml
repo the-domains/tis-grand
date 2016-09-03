@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.2919501
+color:
+  saturation: 0.6754066
+  lightness: 0.406456
+  brandStrength: 0.6097353
+  brandColors:
+    - '#080A09'
+    - '#7E99B7'
+    - '#FFFFFF'
+    - '#99CFFF'
+    - '#31383E'
+  rhythmicContrast: 0.002390868
+name: tis Grand
